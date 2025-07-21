@@ -38,7 +38,7 @@ h1 {
 }
 
 .card:hover {
-  color: rgb(88 199 250 / 100%);
+  color: rgb(112, 201, 243);
   transition: color 1s;
 }
 .card:hover:before,
